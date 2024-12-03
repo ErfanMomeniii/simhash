@@ -1,4 +1,3 @@
-# simhash
 <p align="center">
 <a href="#">
     <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go" alt="go version" />
@@ -8,6 +7,7 @@
 <img src="https://img.shields.io/badge/Version-1.0.0-red?style=for-the-badge&logo=none" alt="version" />
 </p>
 
+# simhash
 
 **simhash** is a lightweight Go package for generating Simhash tokens and calculating their similarity using the 
 [Moses Charikar Simhash](https://en.wikipedia.org/wiki/SimHash) algorithm. It is ideal for applications 
