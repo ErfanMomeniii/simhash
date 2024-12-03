@@ -56,7 +56,7 @@ func main() {
 	// Generate a Simhash token
 	token1 := s.GenerateToken()
 
-	// Create another Simhash instance with similar features
+	// Create another Simhash instance with different features
 	s2 := simhash.NewSimhash()
 	s2.AddFeature("example", 2)
 	s2.AddFeature("testcase", 5)
