@@ -98,6 +98,8 @@ The `AddFeature` method accepts the following types:
 - Byte slices: e.g., []byte("example")
 - Any other type: Converted using JSON serialization
 
+---
+
 ## Contributing
 
 Pull requests are welcome! For any changes, please open an issue first to discuss the proposed modification. Ensure tests are updated accordingly.
